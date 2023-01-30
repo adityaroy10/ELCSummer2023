@@ -1,0 +1,359 @@
+{% load static %}
+{% load crispy_forms_tags %}
+<!DOCTYPE html>
+<html lang="en">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ patient_name }}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link type="text/css" href="/static/assets/patnew4.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+
+
+
+</head>
+
+<body>
+
+
+<div class="sidebar">
+     <img src="/static/assets/img/logo.png" class="logo">
+    <ul class="nav-list">
+
+        <li>
+            <a href="{%url 'dashboard' %}">
+                <i class="bi bi-grid-fill"> Patients</i>
+
+                <!-- <span class="links_name">Patients</span> -->
+            </a>
+            <span class="tooltip">Patients</span>
+        </li>
+        <li>
+            <a href="{%url 'admin' %}">
+                <i class="bi bi-gear-fill"> Admin</i>
+               <!--  <span class="links_name">User</span> -->
+            </a>
+            <span class="tooltip">User</span>
+        </li>
+        <li>
+            <a href="{%url 'alertlog' %}">
+                <i class="bi bi-stack"> Alert-log</i>
+
+               <!--  <span class="links_name">Alert-log</span> -->
+            </a>
+            <span class="tooltip">Alert-log</span>
+        </li>
+        <a class="button123" href="{%url 'signin' %}">
+
+            <i class="bi bi-door-open-fill"> Logout</i>
+        </a>
+
+
+    </ul>
+
+
+
+</div>
+<div class="flex-master">
+
+    {% comment %} Name nav bar top {% endcomment %} {% comment %} Main page container {% endcomment %}
+    <div class="topnav">
+            <div class="left">
+                <img class="profileimg  " src=" /static/assets/img/profile-removebg-preview.png" alt="profile ">
+                <div class="data">
+                    <p id="para"> Name : {{ patient_name }}</p>
+                    <p id="para"> Age : {{ patient_age}} </p>
+                    <p id="para"> Patient ID: {{ patient_id }}</p>
+                </div>
+
+
+            </div>
+            <div class="right ">
+                <div class="col2 ">
+                    <div class="boxes ">
+                        <div class="box box1 ">
+                            <img class="img1 " src=" /static/assets/img/heartbeat.png" alt="heartbeat">
+
+                            <p id="rate">HeartBeat</p>
+                            <p id="rate1">Rate</p>
+                        </div>
+                        <div class="box box2 ">
+                            <img class="img1" src=" /static/assets/img/temperature.png" alt="temp">
+                            <p id="rate">Temperature</p>
+                            <p id="rate2">Rate</p>
+                        </div>
+                        <div class="box box3 ">
+                            <img class="img1" src=" /static/assets/img/ecg.png" alt="Respiratory rate">
+                            <p id="rate">ECG</p>
+                            <p id="rate3">Rate</p>
+                        </div>
+                        <div class="box box4 ">
+                            <img class="img1" src=" /static/assets/img/o2.png" alt="O2">
+                            <p id="rate">         Oxygen Level</p>
+                            <p id="rate4">Rate</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="page-content">
+            <div class="sidebar-left ">
+                <div class="details">
+                    <div class="row ">
+                        <h3>Information</h3>
+                        <p class="textdetails">Gender: {{ patient_gender }}</p>
+                        <p class="textdetails">Blood Type: {{ patient_blood }}</p>
+                        <p class="textdetails">Allergies: {{ patient_allergies }}</p>
+                        <p class="textdetails">Diseases: {{ patient_diseases }}</p>
+                        <p class="textdetails">Height: {{ patient_height }} cm</p>
+                        <p class="textdetails">Weight: {{ patient_weight }} kg</p>
+                        <p class="textdetails">Patient ID: {{ patient_id }}</p>
+                    </div>
+                </div>
+                <div class="pres">
+                    <div class="prescription">
+                    <form method ='post' enctype ="multipart/form-data" id="pres1">
+                        {% csrf_token %}
+                        {{form | crispy}}
+                        <input class="button-21" type="submit" value = "Submit">
+                    </form>
+                    <button class="button-21" onclick="window.location.href = '127.0.0.1:8000/pdf/';">Download Prescriptions</button>
+                    <button></button>
+                </div>
+                </div>
+
+
+
+            </div>
+
+            <div class="content-container">
+
+
+                <div class='main-content'>
+
+                    <div class='graph graph1'>
+                        <canvas id="myChart" width="500" height="280"></canvas>
+                    </div>
+                    <div class='graph graph2'>
+                        <canvas id="myChart2" width="500" height="280"></canvas>
+                    </div>
+                    <div class='graph graph3'>
+                        <canvas id="myChart3" width="500" height="280"></canvas>
+                    </div>
+                    <div class='graph graph4'>
+                        <canvas id="myChart4" width="500" height="280"></canvas>
+                    </div>
+                    <div class="graphbtn">
+                        <button class="button-21" onclick="window.location.href = '{%url 'line_chart'%}';" > Click to see past graphs</button>
+                    </div>
+                     <div class="graphbtn">
+                        <button class="button-21" onclick="window.location.href = '{%url 'future_graph'%}';" > Click to see future graphs</button>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+    <div class="footer">
+
+        <div id="disqus_thread" background-color="black"></div>
+            <script>
+                (function() { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = 'https://dashboard-12.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+                })();
+            </script>
+    </div>
+    <!-- <iframe src="C:/Users/SAHAJ/Desktop/Project/Environmentse/env/src/healthdash/Resume.pdf" width="50%" height="500px"> -->
+<!--     <p class="alertlog"><iframe class="alertlog" src="C:/Users/SAHAJ/Desktop/Project/Environmentse/env/src/healthdash/alert.txt" ></iframe></p>
+ -->
+
+
+
+</body>
+
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<script>
+    var dataObj = {
+        type: 'line',
+        data: {
+            labels: [1, 2, 3, 4, 5, 6],
+            datasets: [{
+                label: 'Blood Pressure',
+                data: [100, 150, 150, 100, 120, 150],
+                fill: false,
+                borderColor: 'rgb(75, 192, 192)',
+                tension: 0.1
+            }]
+        },
+        options: {
+            label: 'red',
+        }
+    }
+     document.getElementById("rate1").innerHTML = dataObj['data']['datasets'][0]['data'][0];
+    var ctx = document.getElementById('myChart').getContext('2d');
+    window.myLine = new Chart(ctx, dataObj);
+
+    var dataObj2 = {
+        type: 'line',
+        data: {
+            labels: [1, 2, 3, 4, 5, 6],
+            datasets: [{
+                label: 'Temperature',
+                data: [1, 19, 10, 20, 40, 50],
+                fill: false,
+                borderColor: 'rgb(75, 192, 192)',
+                tension: 0.1
+            }]
+        },
+
+        options: {
+            label: 'red',
+        }
+    }
+    document.getElementById("rate2").innerHTML = dataObj2['data']['datasets'][0]['data'][0];
+    var ctx = document.getElementById('myChart2').getContext('2d');
+    window.myLine2 = new Chart(ctx, dataObj2);
+
+    var dataObj3 = {
+        type: 'line',
+        data: {
+            labels: [1, 2, 3, 4, 5, 6],
+            datasets: [{
+                label: 'Oxygen Level',
+                data: [50, 90, 60, 80, 75, 100],
+                fill: false,
+                borderColor: 'rgb(75, 192, 192)',
+                tension: 0.1
+            }]
+        },
+        options: {
+            label: 'red',
+        }
+    }
+    document.getElementById("rate3").innerHTML = dataObj3['data']['datasets'][0]['data'][0];
+    var ctx = document.getElementById('myChart3').getContext('2d');
+    window.myLine3 = new Chart(ctx, dataObj3);
+
+    var dataObj4 = {
+        type: 'line',
+        data: {
+            labels: [1, 2, 3, 4, 5, 6],
+            datasets: [{
+                label: 'ECG',
+                data: [150, 190, 180, 160, 179, 200],
+                fill: false,
+                borderColor: 'rgb(75, 192, 192)',
+                tension: 0.1
+            }]
+        },
+        options: {
+            label: 'red',
+        }
+    }
+    document.getElementById("rate4").innerHTML = dataObj4['data']['datasets'][0]['data'][0];
+    var ctx = document.getElementById('myChart4').getContext('2d');
+    window.myLine4 = new Chart(ctx, dataObj4);
+
+
+
+    function changeChart(chartType) {
+
+
+        if (chartType.value === 'bp') {
+            var ctx = document.getElementById('MYChart').getContext('2d');
+            MYchart = new Chart(ctx, dataObj);
+        }
+        if (chartType.value === 'temp') {
+            var ctx = document.getElementById('MYChart').getContext('2d');
+            window.myLine2 = new Chart(ctx, dataObj2);
+        }
+        if (chartType.value === 'o2') {
+            var ctx = document.getElementById('MYChart').getContext('2d');
+            window.myLine3 = new Chart(ctx, dataObj3);
+        }
+        if (chartType.value === 'sugar') {
+            var ctx = document.getElementById('MYChart').getContext('2d');
+            window.myLine4 = new Chart(ctx, dataObj4);
+        }
+
+    }
+</script>
+
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://dashboard-11.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<script>
+    let socket = new WebSocket('ws://localhost:8000/ws/polData/')
+    socket.onopen = function(e) {
+        alert('Connection established');
+    };
+    socket.onmessage = function(e) {
+        console.log(e.data);
+        var recData = JSON.parse(e.data);
+        dataObjNew = dataObj['data']['datasets'][0]['data'];
+        dataObjNew.shift();
+        dataObjNew.push(recData.value);
+        dataObj['data']['datasets'][0]['data'] = dataObjNew;
+        document.getElementById("rate1").innerHTML = dataObj['data']['datasets'][0]['data'][5];
+        dataObjNew2 = dataObj2['data']['datasets'][0]['data'];
+        dataObjNew2.shift();
+        dataObjNew2.push(recData.value2);
+        dataObj2['data']['datasets'][0]['data'] = dataObjNew2;
+        document.getElementById("rate2").innerHTML = dataObj2['data']['datasets'][0]['data'][5];
+        dataObjNew3 = dataObj3['data']['datasets'][0]['data'];
+        dataObjNew3.shift();
+        dataObjNew3.push(recData.value3);
+        dataObj3['data']['datasets'][0]['data'] = dataObjNew3;
+        document.getElementById("rate3").innerHTML = dataObj4['data']['datasets'][0]['data'][5];
+        dataObjNew4 = dataObj4['data']['datasets'][0]['data'];
+        dataObjNew4.shift();
+        dataObjNew4.push(recData.value4);
+        dataObj4['data']['datasets'][0]['data'] = dataObjNew4;
+         document.getElementById("rate4").innerHTML = dataObj3['data']['datasets'][0]['data'][5];
+        window.myLine.update();
+        window.myLine2.update();
+        window.myLine3.update();
+        window.myLine4.update();
+    };
+    socket.onclose = function(e) {
+        alert('Connection closed')
+    };
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+</html>

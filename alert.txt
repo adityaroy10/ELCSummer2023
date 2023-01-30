@@ -1,0 +1,3453 @@
+Temperature has decreased! Reading:22.05
+Temperature has decreased! Reading:21.95
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:22.07
+Temperature has decreased! Reading:22.23
+Temperature has decreased! Reading:22.23
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:21.39
+ECG is in critical condition! Reading:405.0
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.49
+ECG is in critical condition! Reading:533.0
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:21.57
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.71
+Temperature has increaed! Reading:48.55
+ECG is in critical condition! Reading:419.0
+Temperature has increaed! Reading:43.07
+Temperature has increaed! Reading:41.15
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:24.41
+ECG is in critical condition! Reading:544.0
+Temperature has decreased! Reading:25.31
+ECG is in critical condition! Reading:521.0
+Temperature has increaed! Reading:43.21
+Temperature has decreased! Reading:25.13
+Blood Pressure has increased! Reading:85
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:22.37
+ECG is in critical condition! Reading:545.0
+Temperature has decreased! Reading:22.35
+ECG is in critical condition! Reading:591.0
+Temperature has decreased! Reading:22.37
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:22.43
+Temperature has decreased! Reading:22.37
+Temperature has decreased! Reading:22.43
+Temperature has decreased! Reading:22.47
+Temperature has decreased! Reading:22.57
+Temperature has decreased! Reading:22.51
+Temperature has decreased! Reading:22.43
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:22.35
+Temperature has decreased! Reading:22.29
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:22.19
+Temperature has decreased! Reading:22.17
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:22.17
+Temperature has decreased! Reading:22.07
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:22.23
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:22.13
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:22.05
+Temperature has decreased! Reading:22.23
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:22.07
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:22.19
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:22.19
+Temperature has decreased! Reading:22.29
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:22.43
+Temperature has decreased! Reading:22.63
+Temperature has decreased! Reading:23.29
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:22.17
+Temperature has decreased! Reading:22.47
+ECG is in critical condition! Reading:468.0
+Temperature has decreased! Reading:22.65
+Temperature has decreased! Reading:23.03
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.41
+Temperature has decreased! Reading:23.09
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:23.15
+Temperature has decreased! Reading:22.63
+Temperature has decreased! Reading:22.81
+ECG is in critical condition! Reading:485.0
+Temperature has decreased! Reading:22.75
+Temperature has decreased! Reading:22.57
+Temperature has decreased! Reading:22.75
+ECG is in critical condition! Reading:573.0
+Temperature has decreased! Reading:22.53
+Temperature has decreased! Reading:22.59
+Temperature has decreased! Reading:22.59
+Temperature has decreased! Reading:22.59
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.35
+Temperature has decreased! Reading:22.59
+Temperature has decreased! Reading:21.89
+ECG is in critical condition! Reading:440.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:22.75
+Temperature has decreased! Reading:22.81
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.67
+Temperature has decreased! Reading:22.29
+ECG is in critical condition! Reading:528.0
+Temperature has decreased! Reading:21.71
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.83
+Temperature has decreased! Reading:21.67
+ECG is in critical condition! Reading:439.0
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.63
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:21.71
+ECG is in critical condition! Reading:486.0
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:21.57
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.51
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.33
+ECG is in critical condition! Reading:474.0
+Temperature has decreased! Reading:21.55
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:21.73
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.39
+ECG is in critical condition! Reading:446.0
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:22.05
+Temperature has decreased! Reading:21.83
+Temperature has decreased! Reading:21.67
+ECG is in critical condition! Reading:499.0
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.83
+Temperature has decreased! Reading:22.23
+Temperature has decreased! Reading:21.63
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.43
+Temperature has decreased! Reading:21.63
+ECG is in critical condition! Reading:472.0
+Temperature has decreased! Reading:21.57
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.63
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.51
+ECG is in critical condition! Reading:463.0
+Temperature has decreased! Reading:21.57
+Temperature has decreased! Reading:22.65
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:23.99
+Temperature has decreased! Reading:22.57
+ECG is in critical condition! Reading:523.0
+Temperature has decreased! Reading:22.13
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:22.37
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:22.41
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:22.25
+Temperature has decreased! Reading:22.43
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.57
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:22.05
+ECG is in critical condition! Reading:596.0
+Temperature has decreased! Reading:22.57
+Temperature has decreased! Reading:21.95
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.67
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:22.05
+Temperature has decreased! Reading:21.27
+Temperature has decreased! Reading:21.23
+Temperature has decreased! Reading:21.37
+ECG is in critical condition! Reading:474.0
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.27
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.37
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:21.45
+Temperature has decreased! Reading:21.97
+ECG is in critical condition! Reading:410.0
+Temperature has decreased! Reading:21.95
+Temperature has decreased! Reading:21.97
+Temperature has decreased! Reading:21.97
+Temperature has decreased! Reading:22.05
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.97
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.91
+ECG is in critical condition! Reading:570.0
+Temperature has decreased! Reading:22.11
+Temperature has decreased! Reading:22.11
+Temperature has decreased! Reading:22.11
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:22.13
+ECG is in critical condition! Reading:531.0
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.89
+ECG is in critical condition! Reading:518.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:22.25
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:22.19
+Temperature has decreased! Reading:22.17
+Temperature has decreased! Reading:22.07
+ECG is in critical condition! Reading:512.0
+Temperature has decreased! Reading:22.11
+Temperature has decreased! Reading:22.17
+Temperature has decreased! Reading:22.25
+ECG is in critical condition! Reading:560.0
+Temperature has decreased! Reading:22.23
+Temperature has decreased! Reading:22.17
+Temperature has decreased! Reading:22.13
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:21.73
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:22.53
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.77
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:22.17
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:21.37
+Temperature has decreased! Reading:21.51
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.01
+Temperature has decreased! Reading:21.23
+Temperature has decreased! Reading:21.49
+ECG is in critical condition! Reading:468.0
+Temperature has decreased! Reading:21.49
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:21.83
+Temperature has decreased! Reading:21.45
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.63
+ECG is in critical condition! Reading:477.0
+Temperature has decreased! Reading:21.63
+Temperature has decreased! Reading:21.91
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.51
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:21.73
+Temperature has decreased! Reading:21.91
+Temperature has decreased! Reading:21.95
+Temperature has decreased! Reading:21.97
+ECG is in critical condition! Reading:577.0
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.95
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.95
+Temperature has decreased! Reading:22.11
+Temperature has decreased! Reading:22.29
+Temperature has decreased! Reading:22.13
+Temperature has decreased! Reading:22.11
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.89
+ECG is in critical condition! Reading:513.0
+Temperature has decreased! Reading:22.19
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:22.19
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.89
+Temperature has decreased! Reading:22.17
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:22.19
+Temperature has decreased! Reading:21.23
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:20.81
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.87
+Temperature has decreased! Reading:21.15
+Temperature has decreased! Reading:21.49
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:31.63
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.07
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:21.83
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.43
+ECG is in critical condition! Reading:574.0
+Temperature has decreased! Reading:21.43
+Temperature has decreased! Reading:21.57
+Temperature has decreased! Reading:21.55
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.73
+Temperature has decreased! Reading:21.79
+ECG is in critical condition! Reading:478.0
+Temperature has decreased! Reading:21.77
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.77
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.79
+ECG is in critical condition! Reading:539.0
+Temperature has decreased! Reading:21.77
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.77
+Temperature has decreased! Reading:21.85
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.95
+Temperature has decreased! Reading:21.91
+Temperature has decreased! Reading:21.77
+Temperature has decreased! Reading:22.29
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:22.23
+Temperature has decreased! Reading:22.13
+Temperature has decreased! Reading:22.29
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.67
+Temperature has decreased! Reading:22.07
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.05
+Temperature has decreased! Reading:22.01
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:22.07
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.77
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:21.39
+ECG is in critical condition! Reading:561.0
+Temperature has decreased! Reading:21.83
+Temperature has decreased! Reading:21.77
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.97
+ECG is in critical condition! Reading:587.0
+Temperature has decreased! Reading:21.43
+Temperature has decreased! Reading:21.43
+Temperature has decreased! Reading:21.91
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.67
+Temperature has decreased! Reading:21.63
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.67
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.57
+ECG is in critical condition! Reading:543.0
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.73
+Temperature has decreased! Reading:21.63
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.57
+Temperature has decreased! Reading:21.49
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.21
+Temperature has decreased! Reading:21.37
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.05
+Temperature has decreased! Reading:23.35
+Temperature has decreased! Reading:21.57
+ECG is in critical condition! Reading:548.0
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.83
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.77
+Temperature has decreased! Reading:21.91
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.73
+Temperature has decreased! Reading:21.55
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.63
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:22.05
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.67
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.71
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.83
+Temperature has decreased! Reading:21.57
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:22.65
+Temperature has decreased! Reading:21.39
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.67
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.67
+Temperature has decreased! Reading:21.63
+Temperature has decreased! Reading:21.55
+ECG is in critical condition! Reading:499.0
+Temperature has decreased! Reading:21.83
+Temperature has decreased! Reading:21.79
+Temperature has decreased! Reading:21.63
+Temperature has decreased! Reading:21.73
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.71
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.71
+ECG is in critical condition! Reading:538.0
+Temperature has decreased! Reading:21.55
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.39
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.33
+ECG is in critical condition! Reading:506.0
+Temperature has decreased! Reading:21.27
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.33
+ECG is in critical condition! Reading:492.0
+Temperature has decreased! Reading:21.37
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:21.23
+ECG is in critical condition! Reading:525.0
+Temperature has decreased! Reading:21.21
+Temperature has decreased! Reading:21.21
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.21
+Temperature has decreased! Reading:21.05
+Temperature has decreased! Reading:21.17
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.05
+Temperature has decreased! Reading:21.23
+Temperature has decreased! Reading:21.21
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.17
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.27
+ECG is in critical condition! Reading:499.0
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.15
+Temperature has decreased! Reading:21.43
+ECG is in critical condition! Reading:513.0
+Temperature has decreased! Reading:21.45
+Temperature has decreased! Reading:21.45
+Temperature has decreased! Reading:21.37
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.27
+Temperature has decreased! Reading:21.27
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.29
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.27
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:21.37
+Temperature has decreased! Reading:21.43
+Temperature has decreased! Reading:21.29
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:21.27
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.27
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.21
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.23
+Temperature has decreased! Reading:21.37
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:21.45
+Temperature has decreased! Reading:21.51
+ECG is in critical condition! Reading:412.0
+Temperature has decreased! Reading:21.37
+Temperature has decreased! Reading:21.23
+Temperature has decreased! Reading:21.15
+Temperature has decreased! Reading:21.21
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.63
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:21.57
+Temperature has decreased! Reading:21.57
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:21.37
+ECG is in critical condition! Reading:512.0
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:21.63
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:21.27
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.55
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.49
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.61
+ECG is in critical condition! Reading:545.0
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.55
+ECG is in critical condition! Reading:548.0
+Temperature has decreased! Reading:21.39
+Temperature has decreased! Reading:21.37
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.61
+ECG is in critical condition! Reading:598.0
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.63
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.61
+ECG is in critical condition! Reading:565.0
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.55
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.45
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:21.55
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.55
+ECG is in critical condition! Reading:599.0
+Temperature has decreased! Reading:21.63
+Temperature has decreased! Reading:21.43
+Temperature has decreased! Reading:21.39
+ECG is in critical condition! Reading:421.0
+Temperature has decreased! Reading:21.43
+Temperature has decreased! Reading:21.29
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.49
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.45
+Temperature has decreased! Reading:21.55
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.43
+ECG is in critical condition! Reading:584.0
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.61
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:21.49
+ECG is in critical condition! Reading:463.0
+Temperature has decreased! Reading:21.73
+Temperature has decreased! Reading:21.37
+Temperature has decreased! Reading:21.43
+ECG is in critical condition! Reading:559.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:22.19
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:22.05
+Temperature has decreased! Reading:21.85
+Temperature has decreased! Reading:24.41
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:23.75
+ECG is in critical condition! Reading:568.0
+Temperature has decreased! Reading:21.73
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.01
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.81
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.15
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.15
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:20.01
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:20.01
+Temperature has decreased! Reading:25.23
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:19.99
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.05
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.01
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.27
+Temperature has decreased! Reading:20.11
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:19.99
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.01
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.99
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.21
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.21
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.21
+Temperature has decreased! Reading:20.23
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.27
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.15
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.15
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.17
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:20.15
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.11
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:22.87
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:20.15
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.23
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:20.21
+Temperature has decreased! Reading:20.49
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.23
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.27
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.17
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.15
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.01
+Temperature has decreased! Reading:20.01
+Temperature has decreased! Reading:20.05
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:20.01
+Temperature has decreased! Reading:19.99
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.79
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:20.01
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.93
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.87
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:19.79
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.79
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.93
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:20.01
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.93
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.89
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.99
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.87
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:19.83
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.83
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.77
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:19.89
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.89
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.95
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.87
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.93
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.01
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.87
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.39
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.63
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.95
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.87
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:20.01
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.93
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:19.93
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.93
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:19.95
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.87
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:19.95
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:20.01
+Temperature has decreased! Reading:19.99
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:19.99
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.99
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.89
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.93
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:19.63
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.83
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:19.89
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:20.23
+Temperature has decreased! Reading:20.21
+Temperature has decreased! Reading:20.31
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.33
+Temperature has decreased! Reading:20.31
+Temperature has decreased! Reading:20.31
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.37
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:24.21
+Temperature has decreased! Reading:24.11
+Temperature has decreased! Reading:23.41
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.27
+Temperature has decreased! Reading:20.23
+Temperature has decreased! Reading:20.39
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:20.37
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:20.33
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.27
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.15
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:20.21
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.21
+Temperature has decreased! Reading:20.39
+Temperature has decreased! Reading:20.61
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.59
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.39
+Temperature has decreased! Reading:20.43
+Temperature has decreased! Reading:20.45
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.51
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.37
+Temperature has decreased! Reading:20.09
+Temperature has decreased! Reading:20.83
+Temperature has decreased! Reading:20.71
+Temperature has decreased! Reading:20.61
+Temperature has decreased! Reading:20.45
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.61
+Temperature has decreased! Reading:20.61
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.11
+Temperature has decreased! Reading:20.65
+Temperature has decreased! Reading:20.73
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:20.55
+Temperature has decreased! Reading:20.37
+Temperature has decreased! Reading:20.45
+Temperature has decreased! Reading:20.43
+Temperature has decreased! Reading:20.89
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.61
+Temperature has decreased! Reading:20.31
+Temperature has decreased! Reading:22.51
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:21.43
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:20.31
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:20.81
+Temperature has decreased! Reading:20.77
+Temperature has decreased! Reading:20.81
+Temperature has decreased! Reading:20.59
+Temperature has decreased! Reading:20.67
+Temperature has decreased! Reading:21.29
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:22.19
+Temperature has decreased! Reading:23.69
+Blood Pressure has increased! Reading:81
+Temperature has increaed! Reading:45.07
+ECG is in critical condition! Reading:426.0
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:22.19
+Temperature has decreased! Reading:21.61
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:22.81
+Temperature has decreased! Reading:22.59
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:20.89
+Temperature has decreased! Reading:22.31
+Temperature has decreased! Reading:21.43
+Temperature has decreased! Reading:23.09
+Temperature has decreased! Reading:20.77
+ECG is in critical condition! Reading:584.0
+Temperature has decreased! Reading:24.21
+Temperature has decreased! Reading:24.57
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:24.27
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:20.33
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.31
+ECG is in critical condition! Reading:405.0
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:22.95
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.03
+Temperature has decreased! Reading:18.49
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:18.97
+Temperature has decreased! Reading:19.39
+Temperature has decreased! Reading:20.23
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:20.81
+Temperature has decreased! Reading:20.61
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.71
+ECG is in critical condition! Reading:426.0
+Temperature has decreased! Reading:21.79
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:21.01
+Temperature has decreased! Reading:19.17
+ECG is in critical condition! Reading:408.0
+Temperature has decreased! Reading:19.13
+Temperature has decreased! Reading:18.21
+ECG is in critical condition! Reading:471.0
+Temperature has decreased! Reading:18.41
+Temperature has decreased! Reading:18.11
+ECG is in critical condition! Reading:499.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:17.95
+Temperature has decreased! Reading:18.17
+Temperature has decreased! Reading:18.49
+ECG is in critical condition! Reading:407.0
+Temperature has decreased! Reading:18.79
+Temperature has decreased! Reading:18.71
+ECG is in critical condition! Reading:537.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:18.21
+Temperature has decreased! Reading:18.25
+Temperature has decreased! Reading:18.21
+Temperature has decreased! Reading:18.43
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.57
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:18.27
+Temperature has decreased! Reading:18.21
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:17.99
+ECG is in critical condition! Reading:403.0
+Temperature has decreased! Reading:17.57
+Temperature has decreased! Reading:17.89
+ECG is in critical condition! Reading:407.0
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:18.05
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:18.31
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:18.87
+Temperature has decreased! Reading:19.01
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:19.25
+Temperature has decreased! Reading:18.47
+Temperature has decreased! Reading:19.01
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:18.75
+Temperature has decreased! Reading:18.49
+ECG is in critical condition! Reading:447.0
+Temperature has decreased! Reading:18.97
+ECG is in critical condition! Reading:496.0
+Temperature has decreased! Reading:19.17
+Temperature has decreased! Reading:18.43
+ECG is in critical condition! Reading:508.0
+Temperature has decreased! Reading:18.71
+Temperature has decreased! Reading:18.27
+ECG is in critical condition! Reading:458.0
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:18.01
+Temperature has decreased! Reading:18.25
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:17.99
+Temperature has decreased! Reading:19.55
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.55
+Temperature has decreased! Reading:18.05
+Temperature has decreased! Reading:19.41
+Temperature has decreased! Reading:18.75
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:18.65
+ECG is in critical condition! Reading:406.0
+Temperature has decreased! Reading:18.17
+Temperature has decreased! Reading:19.09
+Temperature has decreased! Reading:18.85
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.09
+Temperature has decreased! Reading:20.61
+Temperature has decreased! Reading:18.31
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:19.33
+ECG is in critical condition! Reading:463.0
+Temperature has decreased! Reading:19.71
+ECG is in critical condition! Reading:518.0
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.79
+ECG is in critical condition! Reading:507.0
+Temperature has decreased! Reading:19.63
+ECG is in critical condition! Reading:472.0
+Temperature has decreased! Reading:19.55
+ECG is in critical condition! Reading:468.0
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:18.97
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:18.97
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.13
+ECG is in critical condition! Reading:484.0
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:18.55
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:18.55
+Temperature has decreased! Reading:18.69
+Temperature has decreased! Reading:18.63
+Temperature has decreased! Reading:18.41
+Temperature has decreased! Reading:18.65
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:18.71
+ECG is in critical condition! Reading:493.0
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:18.71
+ECG is in critical condition! Reading:411.0
+Temperature has decreased! Reading:18.49
+Temperature has decreased! Reading:18.63
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:18.49
+Temperature has decreased! Reading:18.15
+Temperature has decreased! Reading:18.01
+Temperature has decreased! Reading:18.01
+Temperature has decreased! Reading:19.03
+Temperature has decreased! Reading:18.69
+Temperature has decreased! Reading:17.89
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:18.47
+Temperature has decreased! Reading:19.51
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.09
+ECG is in critical condition! Reading:491.0
+Temperature has decreased! Reading:18.85
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.83
+ECG is in critical condition! Reading:410.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:18.37
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:20.95
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.71
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:19.47
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.73
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.77
+Temperature has decreased! Reading:19.67
+Temperature has decreased! Reading:19.57
+ECG is in critical condition! Reading:414.0
+Temperature has decreased! Reading:19.61
+Temperature has decreased! Reading:19.67
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.61
+ECG is in critical condition! Reading:403.0
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:19.47
+Temperature has decreased! Reading:19.45
+Temperature has decreased! Reading:19.35
+Temperature has decreased! Reading:19.47
+ECG is in critical condition! Reading:454.0
+Temperature has decreased! Reading:19.51
+Temperature has decreased! Reading:19.89
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.33
+Temperature has decreased! Reading:19.45
+Temperature has decreased! Reading:19.71
+Temperature has decreased! Reading:19.35
+Temperature has decreased! Reading:19.57
+Temperature has decreased! Reading:19.51
+Temperature has decreased! Reading:19.61
+Temperature has decreased! Reading:19.61
+Temperature has decreased! Reading:19.61
+Temperature has decreased! Reading:19.47
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:20.59
+Temperature has decreased! Reading:20.39
+Temperature has decreased! Reading:19.89
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:19.61
+Temperature has decreased! Reading:19.61
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.71
+Temperature has decreased! Reading:19.45
+Temperature has decreased! Reading:19.77
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.63
+Temperature has decreased! Reading:19.25
+Temperature has decreased! Reading:19.57
+Temperature has decreased! Reading:19.41
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.73
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.89
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.71
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.39
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.63
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.19
+Temperature has decreased! Reading:19.35
+Temperature has decreased! Reading:20.05
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.35
+Temperature has decreased! Reading:19.39
+Temperature has decreased! Reading:19.29
+Temperature has decreased! Reading:19.19
+Temperature has decreased! Reading:19.29
+Temperature has decreased! Reading:19.19
+Temperature has decreased! Reading:19.35
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.01
+Temperature has decreased! Reading:19.35
+Temperature has decreased! Reading:18.71
+Temperature has decreased! Reading:19.33
+Temperature has decreased! Reading:19.13
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:19.33
+Temperature has decreased! Reading:18.85
+Temperature has decreased! Reading:19.29
+Temperature has decreased! Reading:19.17
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.41
+Temperature has decreased! Reading:19.93
+Temperature has decreased! Reading:20.27
+Temperature has decreased! Reading:20.31
+Temperature has decreased! Reading:19.41
+Temperature has decreased! Reading:19.35
+Temperature has decreased! Reading:19.13
+Temperature has decreased! Reading:19.13
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:18.85
+Temperature has decreased! Reading:18.97
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:18.81
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:18.81
+Temperature has decreased! Reading:19.25
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:18.97
+Temperature has decreased! Reading:19.35
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:19.09
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.41
+Temperature has decreased! Reading:19.51
+Temperature has decreased! Reading:19.17
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:19.33
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:18.95
+ECG is in critical condition! Reading:439.0
+Temperature has decreased! Reading:19.51
+Temperature has decreased! Reading:19.55
+Temperature has decreased! Reading:19.41
+Temperature has decreased! Reading:19.29
+Temperature has decreased! Reading:19.67
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:18.95
+Temperature has decreased! Reading:18.95
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:19.39
+Temperature has decreased! Reading:19.23
+ECG is in critical condition! Reading:411.0
+Temperature has decreased! Reading:19.01
+Temperature has decreased! Reading:19.23
+ECG is in critical condition! Reading:429.0
+Temperature has decreased! Reading:19.19
+Temperature has decreased! Reading:19.39
+Temperature has decreased! Reading:19.45
+ECG is in critical condition! Reading:568.0
+Temperature has decreased! Reading:18.71
+ECG is in critical condition! Reading:532.0
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:18.81
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.25
+Temperature has decreased! Reading:19.13
+Temperature has decreased! Reading:19.45
+Temperature has decreased! Reading:19.45
+Temperature has decreased! Reading:18.87
+Temperature has decreased! Reading:18.81
+Temperature has decreased! Reading:19.29
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:19.39
+Temperature has decreased! Reading:19.47
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.15
+ECG is in critical condition! Reading:454.0
+Temperature has decreased! Reading:19.61
+ECG is in critical condition! Reading:435.0
+Temperature has decreased! Reading:19.87
+ECG is in critical condition! Reading:423.0
+Temperature has decreased! Reading:19.47
+ECG is in critical condition! Reading:487.0
+Temperature has decreased! Reading:19.95
+ECG is in critical condition! Reading:403.0
+Temperature has decreased! Reading:19.93
+ECG is in critical condition! Reading:403.0
+Temperature has decreased! Reading:20.55
+Temperature has decreased! Reading:21.05
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:20.71
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:19.51
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:19.71
+Temperature has decreased! Reading:19.55
+Temperature has decreased! Reading:19.55
+Temperature has decreased! Reading:19.55
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:19.95
+Temperature has decreased! Reading:19.67
+Temperature has decreased! Reading:20.11
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.59
+Temperature has decreased! Reading:20.67
+Temperature has decreased! Reading:20.39
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.05
+Temperature has decreased! Reading:20.15
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:20.51
+Temperature has decreased! Reading:20.59
+Temperature has decreased! Reading:20.45
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.31
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:19.35
+Temperature has decreased! Reading:19.87
+Temperature has decreased! Reading:19.73
+Temperature has decreased! Reading:20.09
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.55
+ECG is in critical condition! Reading:437.0
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.51
+Temperature has decreased! Reading:20.71
+Temperature has decreased! Reading:20.83
+Temperature has decreased! Reading:20.99
+ECG is in critical condition! Reading:420.0
+Temperature has decreased! Reading:20.99
+Temperature has decreased! Reading:20.93
+Temperature has decreased! Reading:21.57
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.07
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.57
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:21.17
+Temperature has decreased! Reading:21.11
+Temperature has decreased! Reading:21.29
+ECG is in critical condition! Reading:413.0
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:20.71
+Temperature has decreased! Reading:20.45
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:22.17
+ECG is in critical condition! Reading:418.0
+Blood Pressure has increased! Reading:83
+Temperature has decreased! Reading:22.05
+ECG is in critical condition! Reading:439.0
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:21.89
+ECG is in critical condition! Reading:406.0
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.77
+Temperature has decreased! Reading:21.89
+Temperature has decreased! Reading:21.27
+Temperature has decreased! Reading:22.71
+Temperature has decreased! Reading:20.89
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.65
+Temperature has decreased! Reading:22.17
+Temperature has decreased! Reading:21.61
+ECG is in critical condition! Reading:474.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:21.07
+ECG is in critical condition! Reading:462.0
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.77
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:21.89
+Temperature has decreased! Reading:21.97
+ECG is in critical condition! Reading:420.0
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.89
+Temperature has decreased! Reading:21.71
+Temperature has decreased! Reading:23.53
+Temperature has decreased! Reading:22.63
+Temperature has decreased! Reading:22.25
+Temperature has decreased! Reading:20.93
+Temperature has decreased! Reading:20.93
+Temperature has decreased! Reading:21.17
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:21.55
+Temperature has decreased! Reading:21.11
+Temperature has decreased! Reading:21.11
+Temperature has decreased! Reading:21.57
+ECG is in critical condition! Reading:446.0
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:21.29
+Temperature has decreased! Reading:21.27
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.67
+Temperature has decreased! Reading:20.39
+Temperature has decreased! Reading:20.67
+ECG is in critical condition! Reading:541.0
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:20.67
+Blood Pressure has increased! Reading:84
+Temperature has decreased! Reading:20.51
+Temperature has decreased! Reading:20.51
+ECG is in critical condition! Reading:466.0
+Temperature has decreased! Reading:20.61
+Temperature has decreased! Reading:20.55
+ECG is in critical condition! Reading:502.0
+Temperature has decreased! Reading:20.61
+ECG is in critical condition! Reading:539.0
+Temperature has decreased! Reading:20.43
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:20.49
+ECG is in critical condition! Reading:459.0
+Temperature has decreased! Reading:20.49
+Temperature has decreased! Reading:21.05
+ECG is in critical condition! Reading:440.0
+Temperature has decreased! Reading:21.33
+Temperature has decreased! Reading:20.95
+Temperature has decreased! Reading:21.21
+Blood Pressure has increased! Reading:85
+Temperature has decreased! Reading:19.93
+ECG is in critical condition! Reading:458.0
+Temperature has decreased! Reading:20.95
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:20.87
+Temperature has decreased! Reading:19.89
+Temperature has decreased! Reading:20.49
+ECG is in critical condition! Reading:457.0
+Temperature has decreased! Reading:20.71
+Blood Pressure has increased! Reading:88
+Temperature has decreased! Reading:20.39
+ECG is in critical condition! Reading:435.0
+Temperature has decreased! Reading:20.23
+Temperature has decreased! Reading:20.31
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.83
+ECG is in critical condition! Reading:457.0
+Temperature has decreased! Reading:20.33
+Temperature has decreased! Reading:20.45
+ECG is in critical condition! Reading:429.0
+Temperature has decreased! Reading:20.33
+Temperature has decreased! Reading:20.27
+Temperature has decreased! Reading:20.39
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.61
+Temperature has decreased! Reading:20.71
+ECG is in critical condition! Reading:502.0
+Temperature has decreased! Reading:19.77
+Temperature has decreased! Reading:19.55
+Blood Pressure has increased! Reading:82
+Temperature has decreased! Reading:19.73
+ECG is in critical condition! Reading:595.0
+Temperature has decreased! Reading:19.61
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.83
+ECG is in critical condition! Reading:487.0
+Temperature has decreased! Reading:19.77
+Temperature has decreased! Reading:19.47
+ECG is in critical condition! Reading:542.0
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:20.81
+ECG is in critical condition! Reading:581.0
+Blood Pressure has increased! Reading:86
+Temperature has decreased! Reading:17.43
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:16.49
+Temperature has decreased! Reading:17.09
+Temperature has decreased! Reading:16.53
+ECG is in critical condition! Reading:542.0
+Temperature has decreased! Reading:17.51
+Temperature has decreased! Reading:16.91
+Temperature has decreased! Reading:18.17
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:17.25
+ECG is in critical condition! Reading:471.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:17.25
+ECG is in critical condition! Reading:471.0
+Blood Pressure has increased! Reading:87
+Temperature has decreased! Reading:19.19
+ECG is in critical condition! Reading:586.0
+Temperature has decreased! Reading:18.47
+Temperature has decreased! Reading:18.71
+Blood Pressure has increased! Reading:89
+Temperature has decreased! Reading:18.63
+Temperature has decreased! Reading:18.21
+Temperature has decreased! Reading:18.37
+Temperature has decreased! Reading:20.51
+Temperature has decreased! Reading:20.11
+Temperature has decreased! Reading:20.21
+ECG is in critical condition! Reading:516.0
+Temperature has decreased! Reading:21.51
+Temperature has decreased! Reading:20.59
+Temperature has decreased! Reading:20.27
+Temperature has decreased! Reading:20.31
+ECG is in critical condition! Reading:595.0
+Temperature has decreased! Reading:20.27
+Temperature has decreased! Reading:19.79
+Temperature has decreased! Reading:20.05
+ECG is in critical condition! Reading:590.0
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.17
+Temperature has decreased! Reading:19.95
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.17
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.17
+Blood Pressure has increased! Reading:81
+Temperature has decreased! Reading:20.17

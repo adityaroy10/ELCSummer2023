@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" href="/static/assets/signup3.css" rel="stylesheet">
+
+    <title>Sign Up</title>
+</head>
+<body>
+
+    {% for message in messages %}
+    <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+        <strong>Message:</strong> {{ message }}
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+    </div>
+    {% endfor %}
+    <div class="container">
+    <div class="screen">
+        <!-- <div class="login">
+            <h4>Login</h4>
+        </div> -->
+        <div class="screen__content">
+
+            <form method="post" action="/signup" class="login">
+                {% csrf_token %}
+                <div class="login__field">
+                    <label for="username">Username</label>
+                    <input type="text" class="login__input" id="username" name="username" placeholder="(use only letters and numbers)" Required>
+                </div>
+                <div class="login__field half">
+                    <label for="fname">First Name</label>
+                    <i class="login__icon fas fa-user"></i>
+                    <input type="text" class="login__input" id="fname" name="fname" placeholder="" Required>
+                </div>
+                <div class="login__field half">
+                    <label for="lname">Last Name</label>
+                    <i class="login__icon fas fa-user"></i>
+                    <input type="text" class="login__input" id="lname" name="lname" placeholder="" Required>
+                </div>
+                <div class="login__field">
+                    <label for="email">Email</label>
+                    <i class="login__icon fas fa-user"></i>
+                    <input type="email" class="login__input" id="email" name="email" placeholder="" Required>
+                </div>
+                <div class="login__field half">
+                    <label for="pass1">Password</label>
+                    <i class="login__icon fas fa-user"></i>
+                    <input type="password" class="login__input" id="pass1" name="pass1" placeholder="" Required>
+                </div>
+                <div class="login__field half">
+                    <label for="pass2">Confirm Password</label>
+                    <i class="login__icon fas fa-user"></i>
+                    <input type="password" class="login__input" id="pass2" name="pass2" placeholder="" Required>
+                </div>
+                <button type="submit" class="button login__submit">
+                    <span class="button__text">Sign Up Now</span>
+                    <i class="button__icon fas fa-chevron-right"></i>
+                </button>
+
+            </form>
+            <button class="button login__submit1">
+                    <a href="{%url 'signin'%}"></a>
+                    <span class="button__text">Log In Now</span>
+                    <i class="button__icon fas fa-chevron-right"></i>
+                </button>
+        </div>
+        <div class="screen__background">
+            <span class="screen__background__shape screen__background__shape4"></span>
+            <span class="screen__background__shape screen__background__shape3"></span>
+            <span class="screen__background__shape screen__background__shape2"></span>
+            <span class="screen__background__shape screen__background__shape1"></span>
+        </div>
+</div>
+</div>
+
+</body>
+</html>
